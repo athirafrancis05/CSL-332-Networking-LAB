@@ -1,4 +1,3 @@
-udp bidirectional client:
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <stdio.h>
